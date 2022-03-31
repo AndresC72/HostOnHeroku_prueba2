@@ -76,7 +76,7 @@ Este proyecto se encuentra en este link:
 
 [Entra aqui para ver la pagina](https://hackerspi.herokuapp.com/ "dominio")
  
- :link: `link` <https://pokeapipersonajes.herokuapp.com/>
+ :link: `link` <https://hackerspi.herokuapp.com/>
 
 ## Configuracion del proyecto :wrench:
 
