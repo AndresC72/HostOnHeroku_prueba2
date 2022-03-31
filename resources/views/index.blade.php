@@ -97,7 +97,7 @@
 									<span class="image">
 										<img src="images/pic05.jpg" alt="" />
 									</span>
-									<a href="generic.html">
+									<a href="https://youtu.be/kuMqxuW7_Po">
 										<h2>VIDEO TUTORIAL</h2>
 										<div class="content">
 											<p>SPEK14PROGRAMACION</p>
