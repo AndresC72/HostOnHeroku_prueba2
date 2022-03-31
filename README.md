@@ -1,9 +1,13 @@
 # Base de datos con API
 ## Datos personales 
 NOMBRE:Fernando Brayan Mejía Gómez 
+
 Grupo: 2522IS
+
 Link video: https://youtu.be/kuMqxuW7_Po
+
 Link heroku: https://hackerspi.herokuapp.com/
+
 ## Copiar repositorio :space_invader:
 
 Recuerda copiar el codigo del proyecto con:
