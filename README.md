@@ -137,7 +137,7 @@ Este ultimo no es obligatorio.
 
 ## Recuerda seguirme en YOUTUBE
 
-![Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/2560px-YouTube_Logo_%282013-2017%29.svg.png "Imagen")
+![Codeunit06](https://github.com/Codeunit6/Codeunit6/blob/main/anbu.jpg "Codeunit06")
 
 spek14programacion :link: `<link>` : <https://www.youtube.com/channel/UCwPxnD_fdRJggn5ZILh1PRg>
 
