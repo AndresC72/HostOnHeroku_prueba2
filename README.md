@@ -156,7 +156,7 @@ spek14programacion :link: `<link>` : <https://www.youtube.com/channel/UCwPxnD_fd
 
 Tambien tengo un canal en YOUTUBE donde podras ver tutoriales y cosas interesantes, puedes seguirme en esta plataforma si gustas.
 
-- spek14programacion :link: `<link>` : <https://www.youtube.com/channel/UCwPxnD_fdRJggn5ZILh1PRg>
+- spek14programacion :link: `<link>` : <https://youtu.be/kuMqxuW7_Po>
 
 ## Recuerda darme un follow :black_nib:
 
