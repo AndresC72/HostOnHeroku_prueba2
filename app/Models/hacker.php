@@ -10,7 +10,7 @@ class hacker extends Model
     use HasFactory;
     protected $table = 'hackers';
     public function tipohacker(){
-        return $this->belongsTo('App\Models\tipohacker');
+        return $this->belongsTo('App\Models\Tipohacker');
     }
     public function grupoHacker(){
         return $this->belongsTo('App\Models\grupoHacker');
