@@ -154,9 +154,9 @@ spek14programacion :link: `<link>` : <https://www.youtube.com/channel/UCwPxnD_fd
 ![Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/2560px-YouTube_Logo_%282013-2017%29.svg.png "Imagen")
 
 
-Tambien tengo un canal en YOUTUBE donde podras ver tutoriales y cosas interesantes, puedes seguirme en esta plataforma si gustas.
 
-- spek14programacion :link: `<link>` : <https://youtu.be/kuMqxuW7_Po>
+
+AQUI PUEDES ENCOTRAR EL VIDEO TUTORIAL DEL PROYECTO `<link>` : <https://youtu.be/kuMqxuW7_Po>
 
 ## Recuerda darme un follow :black_nib:
 
