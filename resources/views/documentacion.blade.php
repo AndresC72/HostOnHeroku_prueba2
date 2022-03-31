@@ -25,7 +25,7 @@
 
 							<!-- Header -->
 								<header id="header">
-									<h1 class="logo"><strong>API BEBIDAS MUNDO</strong> por Fernando y Eduardo</h1>
+									<h1 class="logo"><strong>API HACKER</strong> por Fernando Brayan Mejia Gomez</h1>
 									<ul class="icons">
 										<li><a href="https://twitter.com/?lang=es" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="https://www.facebook.com/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
