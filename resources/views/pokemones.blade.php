@@ -18,13 +18,14 @@
 
 							<!-- Logo -->
 								<a href="{{route('index')}}" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">HACKERS HISTORY</span>
+									<span class="symbol"><img src="images/cargapoke.gif" alt="" /></span><span class="title">PICKYOURIMAGE</span>
 								</a>
 
 							<!-- Nav -->
 								<nav>
 									<ul>
 										<li><a href="#menu">Menu</a></li>
+										
 									</ul>
 								</nav>
 
@@ -36,10 +37,8 @@
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="{{route('index')}}">INICIO</a></li>
-							<li><a href="{{route('hacker')}}">HACKERS HISTORY</a></li>
-							<li><a href="{{route('documentacion')}}">API HACKERS</a></li>
-							<li><a href="{{route('apipokemon')}}">API POKEMON</a></li>
-							<li><a href="{{route('about')}}">SOBRE NOSOTROS</a></li>
+							<li><a href="{{route('login')}}">PERFIL</a></li>
+							
 						</ul>
 					</nav>
 
@@ -49,9 +48,10 @@
 						<div class="inner">
 							
 							<header>
-								<h1>Pokemones</h1>
-								
+								<h1>Pokemones</h1>		
 							</header>
+
+							@auth
 							<section class="tiles">
 								@foreach($pokemon as $poke)
 								@if($poke['tipo'] == 'normal')
@@ -581,6 +581,7 @@
 								@endif
 								@endforeach
 							</section>
+							@endauth
 						</div>
 					</div>
 

@@ -17,7 +17,7 @@
 
 							<!-- Logo -->
 								<a href="{{route('index')}}" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">SPEK14PROGRAMACION</span>
+									<span class="symbol"><img src="images/cargapoke.gif" alt="" /></span><span class="title">PICKYOURIMAGE</span>
 								</a>
 
 							<!-- Nav -->
@@ -35,10 +35,9 @@
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="{{route('index')}}">INICIO</a></li>
-							<li><a href="{{route('hacker')}}">HACKERS HISTORY</a></li>
-							<li><a href="{{route('documentacion')}}">API HACKERS</a></li>
-							<li><a href="{{route('apipokemon')}}">API POKEMON</a></li>
-							<li><a href="{{route('about')}}">SOBRE NOSOTROS</a></li>
+							<li><a href="{{route('home')}}">LOGIN</a></li>
+
+							
 						</ul>
 					</nav>
 
@@ -46,31 +45,11 @@
 					<div id="main">
 						<div class="inner">
 							<header>
-								<h1>Bienvenido a SPEK14PROGRAMACION</h1>
+								<h1>Bienvenido a PICKYOURIMAGE.NET</h1>
 							</header>
 							<section class="tiles">
-								<article class="style1">
-									<span class="image">
-										<img src="images/pic01.jpg" alt="" />
-									</span>
-									<a href="{{route('hacker')}}">
-										<h2>HACKERS</h2>
-										<div class="content">
-											<p>BASE DATA HACKERS</p>
-										</div>
-									</a>
-								</article>
-								<article class="style2">
-									<span class="image">
-										<img src="images/pic02.jpg" alt="" />
-									</span>
-									<a href="{{route('documentacion')}}">
-										<h2>API HACKERS DOCUMENTACION</h2>
-										<div class="content">
-											<p>DOCUMENTACION DE LA API</p>
-										</div>
-									</a>
-								</article>
+								
+								@auth
 								<article class="style3">
 									<span class="image">
 										<img src="images/pic03.jpg" alt="" />
@@ -82,36 +61,17 @@
 										</div>
 									</a>
 								</article>
-								<article class="style4">
-									<span class="image">
-										<img src="images/pic04.jpg" alt="" />
-									</span>
-									<a href="{{route('about')}}">
-										<h2>SOBRE NOSOTROS</h2>
-										<div class="content">
-											<p>FERNANDO BRAYAN MEJIA GOMEZ</p>
-										</div>
-									</a>
-								</article>
-								<article class="style4">
-									<span class="image">
-										<img src="images/pic05.jpg" alt="" />
-									</span>
-									<a href="https://youtu.be/kuMqxuW7_Po">
-										<h2>VIDEO TUTORIAL</h2>
-										<div class="content">
-											<p>SPEK14PROGRAMACION</p>
-										</div>
-									</a>
-								</article>	
+								@endauth
+
+							
 								<article class="style4">
 									<span class="image">
 										<img src="images/pic06.jpg" alt="" />
 									</span>
-									<a href="https://github.com/Codeunit6/basedatosapi">
+									<a href="https://github.com/AndresC72/HostOnHeroku">
 										<h2>REPOSITORIO</h2>
 										<div class="content">
-											<p>CODEUNIT06</p>
+											<p>AndresC72</p>
 										</div>
 									</a>
 								</article>	
@@ -141,6 +101,8 @@
 									</ul>
 								</form>
 							</section>
+
+							
 							<section>
 								<h2>REDES SOCIALES</h2>
 								<ul class="icons">

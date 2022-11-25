@@ -46,3 +46,11 @@ Route::get('/hacker/grupo/{id}',[grupoHackerController::class,'mostrargrupo'])->
 //consumo de api pokemon
 Route::get('/pokemon',[apiController::class,'pokemon'])->name('apipokemon');
 Route::get('/pokemon/{nombre}',[apiController::class,'detallepokemon'])->name('detallepokemon');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

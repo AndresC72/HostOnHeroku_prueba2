@@ -25,7 +25,7 @@
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="../images/logo.svg" alt="" /></span><span class="title">Phantom</span>
+									<span class="symbol"><img src="../images/logo.svg" alt="" /></span><span class="title">PICKYOURIMAGE</span>
 								</a>
 
 							<!-- Nav -->
@@ -43,10 +43,7 @@
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="{{route('index')}}">INICIO</a></li>
-							<li><a href="{{route('hacker')}}">HACKERS HISTORY</a></li>
-							<li><a href="{{route('documentacion')}}">API HACKERS</a></li>
-							<li><a href="{{route('apipokemon')}}">API POKEMON</a></li>
-							<li><a href="{{route('about')}}">SOBRE NOSOTROS</a></li>
+							<li><a href="{{route('login')}}">PERFIL</a></li>
 						</ul>
 					</nav>
 
